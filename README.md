@@ -13,3 +13,9 @@ length - Number of entries to display
 --scaled  --> to occupy the maximum printing width
 
 files should be .csv type   ex: sampleData1.csv sampleData2.csv
+
+default will be length of 10 and data sorted according to the number of meeting. 
+
+./executedFileName csvfilename.csv
+
+![Screenshot (2)](https://user-images.githubusercontent.com/73444543/185036544-c1bec73b-1d7c-4dd1-98ff-f897cc759c08.png)
